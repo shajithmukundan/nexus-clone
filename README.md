@@ -132,7 +132,7 @@ basic.forever(function () {
 
 It is not recommended to gradually turn more than 4 servos at the same time, since this would slow down all servos' turning speed.
 
-## Calibrating NexutBot
+## Calibrating NexusBot
 
 To calibrate the robot, use the calibration block in the NexusBot section without any changes and flash the code onto your micro:bit.
 
@@ -201,9 +201,9 @@ basic.forever(function () {
 
 ## Extension Author
 
-Alan Wang of Taiwan Coding Education Association
+Joseph of Taiwan Coding Education Association
 
-Email: alan@beyond-coding.org.tw
+Email: joseph@beyond-coding.org.tw
 
 ## Supported Extension Language
 
