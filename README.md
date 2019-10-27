@@ -42,7 +42,7 @@ The onboard PCA9685 chip has the I2C address of 0x40 (64).
 
 ## NexusBot
 
-NexusBot is an Otto-like 8-dof biped robot powered by micro:bit and Nexus:bit. This extension comes with basic control blocks for this robot.
+NexusBot is an 8-dof biped robot powered by micro:bit and Nexus:bit. This extension comes with basic control blocks for this robot.
 
 ![IMG_0040](https://user-images.githubusercontent.com/44191076/57355393-7ef1e980-71a0-11e9-9b1b-28236775f7b7.JPG)
 
