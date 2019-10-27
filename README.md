@@ -42,7 +42,7 @@ The onboard PCA9685 chip has the I2C address of 0x40 (64).
 
 ## NexusBot
 
-NexusBot is an 8-dof biped robot powered by micro:bit and Nexus:bit. This extension comes with basic control blocks for this robot.
+NexusBot is an Otto-like 8-dof biped robot powered by micro:bit and Nexus:bit. This extension comes with basic control blocks for this robot.
 
 ![IMG_0040](https://user-images.githubusercontent.com/44191076/57355393-7ef1e980-71a0-11e9-9b1b-28236775f7b7.JPG)
 
@@ -53,6 +53,8 @@ The robot can also be refitted into a small 2WD car, using 2 DC motors in servo 
 
 ![IMG_0066](https://user-images.githubusercontent.com/44191076/58068030-40a5f280-7bc2-11e9-94fc-807f7433d7ea.JPG)
 
+## License CC-BY-SA
+NexusBot was inspired by another robot Otto.
 You can [download our NexusBot of 3D printable files](https://drive.google.com/open?id=1pr5YNoWAIXLAu2MWakVdHUitS33XlGxd). Gather all the off the shelf parts that you'll need for this assembly.
 
 ## Relative-Degree and Gradual Servo Control
