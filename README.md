@@ -53,6 +53,8 @@ The robot can also be refitted into a small 2WD car, using 2 DC motors in servo 
 
 ![IMG_0066](https://user-images.githubusercontent.com/44191076/58068030-40a5f280-7bc2-11e9-94fc-807f7433d7ea.JPG)
 
+You can [download our NexusBot of 3D printable files](https://drive.google.com/open?id=1pr5YNoWAIXLAu2MWakVdHUitS33XlGxd). Gather all the off the shelf parts that you'll need for this assembly.
+
 ## Relative-Degree and Gradual Servo Control
 
 One major function of this extension is to control servos by relative degrees, or vectors from their default position. This allows users to define and repeat more precise servo movements after simple calibrations. The extension also constrains servos' target position to be within 0-180 degrees, or whatever range the user defined.
