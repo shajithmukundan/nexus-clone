@@ -215,7 +215,7 @@ enum botWalk {
 
 let _boardType: boardType = boardType.nexusbit
 
-//% weight=200 color=#009fb7 icon="\uf1aa" block="Nexus:bit"
+//% weight=200 color=#009fb7 icon="\uf1aa" block="N"
 namespace nexusbit {
 
     let _joystickSen = joystickSen.normal
