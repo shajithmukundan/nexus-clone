@@ -233,7 +233,7 @@ namespace nexusbit {
 
     function _initialize() {
         if (!_initialized) {
-            PCA9685.reset(0x6A)
+            PCA9685.reset(106)
             _initialized = true
         }
     }
