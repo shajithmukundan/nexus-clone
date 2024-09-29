@@ -1,7 +1,7 @@
 {
-    "name": "pxt-Nexusbit",
+    "name": "pxt-NexusClone",
     "version": "0.0.2",
-    "description": "Extension for Nexus:bit/NexusBot",
+    "description": "Extension for NexusClone",
     "dependencies": {
         "core": "*",
         "pca9685": "github:jdarling/pxt-pca9685#3d08a2d73002bf8d3525894bb731bc8fe82f6673",
